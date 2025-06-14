@@ -16,9 +16,7 @@
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#employeeModal" onclick="clearEmployeeForm()">
                     <i class="bi bi-plus"></i>
                 </button>
-                <button type="button" class="btn btn-danger" onclick="deleteSelectedRows()">
-                    <i class="bi bi-trash"></i>Delete Selected
-                </button>
+               
             </div>
         </div>
 
